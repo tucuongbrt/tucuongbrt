@@ -14,7 +14,7 @@
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=tucuongbrt&theme=tokyonight&count_private=true&show_icons=true">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tucuongbrt&hide=javascript,html,c,assembly&theme=tokyonight&langs_count=10&count_private=true&exclude_repo=sortBigFile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tucuongbrt&theme=tokyonight&langs_count=10&count_private=true&exclude_repo=sortBigFile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌐️ Reach me at
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tucuongbrt)
