@@ -5,16 +5,16 @@
 
 ### 🛠 My knowledge
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### 📚 Github Status
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tucuongbrt&layout=compact&theme=tokyonight&langs_count=6" height="150">
-  <img src="https://github-readme-stats.vercel.app/api?username=tucuongbrt&show_icons=true&theme=tokyonight" height="150">
-</p>
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=tucuongbrt&theme=tokyonight&count_private=true&show_icons=true">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tucuongbrt&hide=javascript,html,c,assembly&theme=tokyonight&langs_count=10&count_private=true&exclude_repo=sortBigFile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌐️ Reach me at
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tucuongbrt)
