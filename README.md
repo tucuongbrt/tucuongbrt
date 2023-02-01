@@ -12,8 +12,8 @@
 ### 📚 Github Status
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tucuongbrt&layout=compact&theme=tokyonight&langs_count=6" height="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=tucuongbrt&show_icons=true&theme=tokyonight" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tucuongbrt&layout=compact&theme=tokyonight&langs_count=6" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=tucuongbrt&show_icons=true&theme=tokyonight" height="150">
 </p>
 
 ### 🌐️ Reach me at
